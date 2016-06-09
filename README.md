@@ -19,5 +19,5 @@ This indicates that the correlation between alcohol consumption and life expecta
 r = 0.5953, p = 8.874e-18
 This indicates that the correlation between Income per Person and life expectancy is strong and  the p valus is significant since it is <0.05.
 
-In summary, the correlation between alcohol consumption and life expectancy is weak. 
+##In summary, the correlation between alcohol consumption and life expectancy is weak. 
 the correlation between alcohol consumption and life expectancy is strong, but it does not show linear relationship. instead, it shows S shape (income_vs_life.png) 
