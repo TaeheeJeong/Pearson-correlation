@@ -8,13 +8,16 @@ I used two quantitative explanatory variables and one quantitative response vari
 -Income per Person(US$)
 -life expectancy at birth (years)
 
-First, I plot the relationship with scatterplots (see figures)
+First, I plot the relationship with scatterplots (see alcohol_vs_life.png, income_vs_life.png)
 
-##I generated correlation coefficient between alcohol consumption and life expectancy.
+Then, I generated correlation coefficient
+##correlation coefficient between alcohol consumption and life expectancy.
 r = 0.2989, p = 7.140e-05
 This indicates that the correlation between alcohol consumption and life expectancy is weak even though the p valus is significant since it is <0.05.
 
-##I generated correlation coefficient between Income per Person and life expectancy.
+##correlation coefficient between Income per Person and life expectancy.
 r = 0.5953, p = 8.874e-18
 This indicates that the correlation between Income per Person and life expectancy is strong and  the p valus is significant since it is <0.05.
 
+In summary, the correlation between alcohol consumption and life expectancy is weak. 
+the correlation between alcohol consumption and life expectancy is strong, but it does not show linear relationship. instead, it shows S shape (income_vs_life.png) 
